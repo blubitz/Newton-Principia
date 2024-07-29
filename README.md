@@ -1,3 +1,6 @@
+## Where can I find a copy of the Principia?
+I found mine from an old PDF. There is a another version that is more readable in terms of scan quality found [here](https://redlightrobber.com/red/links_pdf/Isaac-Newton-Principia-English-1846.pdf).
+
 ## Is there any code here?
 No.
 
