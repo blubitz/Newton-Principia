@@ -2,7 +2,7 @@
 I found mine from an old PDF. There is a another version that is more readable in terms of scan quality found [here](https://redlightrobber.com/red/links_pdf/Isaac-Newton-Principia-English-1846.pdf).
 
 ## Table of Contents
-[Volume I](Volume%201.md)
+[Volume I](Volume%201)
 
 ## Is there any code here?
 No.
